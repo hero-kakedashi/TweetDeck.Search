@@ -18,7 +18,11 @@ Chrome拡張機能の「パッケージ化されていない拡張機能を読�
 
 # Usage
 
-DEMOの実行方法など、"hoge"の基本的な使い方を説明する
+TweetDeck Extension For Searchは、以下のように利用します。
+
+![How To Use 1](https://github.com/hero-kakedashi/TweetDeck.Search/blob/main/TweetDeck%20Extension%20For%20Search%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B91.jpg)
+![How To Use 2](https://github.com/hero-kakedashi/TweetDeck.Search/blob/main/TweetDeck%20Extension%20For%20Search%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B92.jpg)
+
 
 ```bash
 git clone https://github.com/hoge/~
