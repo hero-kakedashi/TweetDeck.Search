@@ -1,0 +1,25 @@
+{
+  "manifest_version": 2,
+  "name": "TweetDeck Extension For Search",
+  "version": "1.0",
+  "description": "This tool add the click button of searching focused text in TweetDeck.",
+
+  "background" : {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+
+  "permissions": [
+    "tabs",
+    "activeTab",
+    "contextMenus",
+    "<all_urls>"
+  ],
+
+  "icons": {
+    "16": "search_tweetdeck_16.png",
+    "48": "search_tweetdeck_48.png",
+    "128": "search_tweetdeck_128.png"
+  }
+
+}
